@@ -66,6 +66,15 @@ function makeSound(key) {
 
     default:
         console.log(buttonInnerHTML);
-        break;   
+        break;
+    
 }
+
 }
+
+
+
+
+
+
+
